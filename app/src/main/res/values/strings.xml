@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">timeKeeper App</string>
+    <string name="create_new_action">Create New Action</string>
+    <string name="show_existing_actions">Show Existing Actions</string>
+</resources>
